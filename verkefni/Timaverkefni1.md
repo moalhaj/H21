@@ -65,10 +65,17 @@ Til að æfa þig að breyta textastreng í heiltölur ætlar þú að skrifa fo
 ## Námsmat
 - Yfirferð og námsmat á sér stað í tíma. 
 - Fyrir hvern lið; Fullt fyrir fullnægjandi lausn/skilning, ekkert ef lausn/skilningur er ábótavant eða vantar. <br>
+
 #### Eftirfarandi er metið í tíma útfrá verklegum tilraunum og skilningi nemanda:
 
-1. Þekkir skil á helstum pörtum í Arduino hardware 
-1. Getur unnið með Serial Monitor í báðar áttir (V1.1)
-1. Kann að vinna með skilyrðissetningar í Arduino. (V1.2)
-1. Getur unnið með Arduino föll og gagnatög í Arduino.
-1. Kann skil á meðhöndlun á bitum og minni í Arduino.
+1. Þekkir helstu tög og stærðir í binary. 
+1. Getur skrifað út með Serial Monitor (V1.1).
+1. Getur lesið frá Serial Monitor (V1.2). 
+1. Kann að vinna með skilyrðissetningar og lykkjur í Arduino. 
+1. Notar innbyggð föll;`toUpperCase()` og `toInt()`.
+1. Notar bitwise operator í lausnum.
+
+<-- 
+1. Þekkir Arduino hardware parta og pinna.
+-->
+
