@@ -59,3 +59,11 @@ Skrifaðu forrit sem les inn talnastreng og breytir þeirri tölu svo í mínust
 Fjarstýringin fyrir fjarstýrða bílinn sem þú gerir á önninni þarf að senda upplýsingar til bílsins um t.d. hraða og beygjur. Þessar upplýsingar þarf að senda til bílsins sem textastreng (e. string) en verða notaðar af bílnum sem heiltölur.
 
 Til að æfa þig að breyta textastreng í heiltölur ætlar þú að skrifa forrit sem tekur inn textastreng frá Serial Monitor sem inniheldur tvær tölur og kommu á milli þeirra til að aðgreina þær t.d. ```123,456```. Forritið á svo að taka þessar tvær tölur og skila summu þeirra.
+
+#### Eftirfarandi er metið í tíma útfrá verklegum tilraunum og skilningi nemanda:
+
+1. Þekkir skil á helstum pörtum í Arduino hardware 
+1. Getur unnið með Serial Monitor í báðar áttir (V1.1)
+1. Kann að vinna með skilyrðissetningar í Arduino. (V1.2)
+1. Getur unnið með Arduino föll og gagnatög í Arduino.
+1. Kann skil á meðhöndlun á bitum og minni í Arduino.
