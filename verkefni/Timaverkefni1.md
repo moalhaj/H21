@@ -60,6 +60,11 @@ Fjarstýringin fyrir fjarstýrða bílinn sem þú gerir á önninni þarf að s
 
 Til að æfa þig að breyta textastreng í heiltölur ætlar þú að skrifa forrit sem tekur inn textastreng frá Serial Monitor sem inniheldur tvær tölur og kommu á milli þeirra til að aðgreina þær t.d. ```123,456```. Forritið á svo að taka þessar tvær tölur og skila summu þeirra.
 
+---
+
+## Námsmat
+- Yfirferð og námsmat á sér stað í tíma. 
+- Fyrir hvern lið; Fullt fyrir fullnægjandi lausn/skilning, ekkert ef lausn/skilningur er ábótavant eða vantar. <br>
 #### Eftirfarandi er metið í tíma útfrá verklegum tilraunum og skilningi nemanda:
 
 1. Þekkir skil á helstum pörtum í Arduino hardware 
