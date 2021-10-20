@@ -75,7 +75,7 @@ Til að æfa þig að breyta textastreng í heiltölur ætlar þú að skrifa fo
 1. Notar innbyggð föll;`toUpperCase()` og `toInt()`.
 1. Notar bitwise operator í lausnum.
 
-<-- 
+<!-- 
 1. Þekkir Arduino hardware parta og pinna.
 -->
 
