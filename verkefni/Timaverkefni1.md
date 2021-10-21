@@ -56,6 +56,8 @@ Skrifaðu forrit sem les inn talnastreng og breytir þeirri tölu svo í mínust
 
 ### 1.5 Fjarstýring
 
+Aukabjargir: [```indexOf()```](https://www.arduino.cc/reference/en/language/variables/data-types/string/functions/indexof/) og [```substring()```](https://www.arduino.cc/reference/en/language/variables/data-types/string/functions/substring/) 
+
 Fjarstýringin fyrir fjarstýrða bílinn sem þú gerir á önninni þarf að senda upplýsingar til bílsins um t.d. hraða og beygjur. Þessar upplýsingar þarf að senda til bílsins sem textastreng (e. string) en verða notaðar af bílnum sem heiltölur.
 
 Til að æfa þig að breyta textastreng í heiltölur ætlar þú að skrifa forrit sem tekur inn textastreng frá Serial Monitor sem inniheldur tvær tölur og kommu á milli þeirra til að aðgreina þær t.d. ```123,456```. Forritið á svo að taka þessar tvær tölur og skila summu þeirra.
