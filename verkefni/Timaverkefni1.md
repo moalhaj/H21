@@ -50,7 +50,7 @@ Aukabjargir:
 - [Strengir í Arduino (sjá sérstakelga ```toInt()```)](https://www.arduino.cc/reference/en/language/variables/data-types/stringobject/)
 - Til að snúa bitum er notaður **ekki** (e. not) bitavirkinn (e. bitwise operator) og er táknið fyrir hann ```~``` (tildamerkið).
 
-Skrifaðu forrit sem les inn talnastreng og breytir þeirri tölu svo í mínustölu með því að nota þína eigin útfærslu á [tvíundafyllingu](https://github.com/VESM2VT/Efni/blob/main/Kennsluefni/ArduinoForritun.md#unsinged-hvernig-geyma-tölvur-m%C3%ADnustölur).
+Skrifaðu forrit sem les inn talnastreng og breytir þeirri tölu svo í mínustölu með því að nota þína eigin útfærslu á [tvíundafyllingu](https://github.com/VESM2VT/Efni/blob/main/Kennsluefni/ArduinoForritun.md#unsigned-hvernig-geyma-t%C3%B6lvur-m%C3%ADnust%C3%B6lur).
 
 ---
 
